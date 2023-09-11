@@ -1,8 +1,6 @@
 # CodeQuest - Explore Competitive Coding 🚀
 
-[CodeQuest](https://codequest-app.vercel.app/){:target="_blank"}
-<a href="http://https://codequest-app.vercel.app/" target="_blank">CodeQuest</a>
-
+[CodeQuest](https://codequest-app.vercel.app/)
 
 Welcome to CodeQuest - your gateway to the exciting world of competitive coding contests! Whether you're a beginner or a coding ninja, there's a challenge waiting for you.
 
