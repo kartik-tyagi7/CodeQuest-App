@@ -1,0 +1,43 @@
+@import url("../../index.css");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.pagination {
+  display: flex;
+  /* margin: auto auto; */
+  align-items: center;
+}
+.pagination-numbers {
+  /* display: block; */
+  display: flex;
+  border: 2px solid white;
+  border-radius: 30px;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.pagination-numbers span {
+  /* font-size: .8rem; */
+  height: 35px;
+  width: 35px;
+  color: white !important;
+  margin: 3px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* border: 2px solid red; */
+  border-radius: 50%;
+}
+
+.selected-page {
+  /* background-color: rgb(212, 212, 212); */
+  color: black !important;
+  transition: 0.3s;
+}
