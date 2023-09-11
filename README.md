@@ -1,8 +1,37 @@
-# React + Vite
+# CodeQuest - Explore Competitive Coding 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[CodeQuest](https://codequest-app.vercel.app/)
 
-Currently, two official plugins are available:
+Welcome to CodeQuest - your gateway to the exciting world of competitive coding contests! Whether you're a beginner or a coding ninja, there's a challenge waiting for you.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+### Stay Up-to-Date 📅
+
+- Keep track of upcoming coding contests from various platforms, all in one place.
+- Never miss an opportunity to test your skills and climb the leaderboard.
+
+### Search and Sort 🔍
+
+- Easily find contests by name, website, duration, and even filter for those happening in the next 24 hours.
+- Use sorting options to find the perfect contest to hone your skills.
+
+### Celebrate Achievements 🎉
+
+- Track your progress, celebrate your victories, and see how you stack up against other coders.
+- Level up your coding game and earn your bragging rights.
+
+## Start Your Coding Journey Today 🔥
+
+Whether you're a seasoned pro or just getting started, CodeQuest is your ultimate companion in the world of competitive coding. Sharpen your skills, solve real-world problems, and embark on a thrilling coding adventure.
+
+Join us today and become a coding champion! 💻✨
+
+https://codequest-app.vercel.app/
+
+## Getting Started
+
+1. Clone this repository.
+2. Install the necessary dependencies.
+3. Run the application and start exploring coding contests.
+
